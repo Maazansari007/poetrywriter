@@ -78,10 +78,10 @@ header{
 }
 
 .video{
-  font-size: 8px;
+  width:40%;
   text-align: center;
+  font-size: 1em;
   
-  padding: 20px;
 }
 
 .video iframe{
