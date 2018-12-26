@@ -74,7 +74,7 @@ header{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  grid-gap: 20px;
+  grid-gap: 10px;
 }
 
 .video{
@@ -85,7 +85,7 @@ header{
 }
 
 .video iframe{
-  width: 80%;
+  width: 70%;
   height: 90px;
 }
 .vh{
