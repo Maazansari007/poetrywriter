@@ -77,9 +77,10 @@ header{
   grid-template-rows: 1fr 1fr;
   grid-gap: 20px;
   width:100%;
-  font-size: 5px;
+ }
+.videos h1{
+font-size: 0.5rem;
 }
-̥
 .video{
   text-align: center;
 }
