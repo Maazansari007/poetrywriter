@@ -78,7 +78,7 @@ header{
 }
 
 .video{
-  width:40%;
+  width:20%;
   text-align: center;
   font-size: 1em;
   
@@ -86,7 +86,7 @@ header{
 
 .video iframe{
   width: 70%;
-  height: 90px;
+  
 }
 .vh{
   min-height: 90px;
