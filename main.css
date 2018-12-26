@@ -85,7 +85,7 @@ header{
 }
 
 .video iframe{
-  width: 70%;
+  width: 100px;
   height: 90px;
 }
 .vh{
